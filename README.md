@@ -1,5 +1,5 @@
 # mooc-java-programming-i
-University of Helsinki’s free open online course (MOOC). 2020solutions???
+University of Helsinki’s free open online course (MOOC). 2020 solutions???
 
 Part1 Done
 
